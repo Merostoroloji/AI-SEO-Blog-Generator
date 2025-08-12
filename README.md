@@ -83,9 +83,9 @@ Secure credential storage - Encrypted user data
 
  Project Structure
 ai-seo-blog-generator/
-├── README.md
-├── DEVELOPMENT_PLAN.md
-├── PROJECT_CONTEXT.md
+├──  README.md
+├──  DEVELOPMENT_PLAN.md
+├──  PROJECT_CONTEXT.md
 ├── requirements.txt
 ├── .env.example
 ├── main.py
