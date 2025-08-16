@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-15T12:47:34.851119",
+  "config": {
+    "product_name": "Wireless Gaming Headset Pro",
+    "niche": "Gaming Accessories",
+    "target_audience": "Gamers and gaming enthusiasts aged 18-35",
+    "keywords": [
+      "wireless gaming headset",
+      "best gaming headset 2024",
+      "gaming audio equipment"
+    ]
+  },
+  "execution": {
+    "duration": 318.082881,
+    "agents_completed": 7,
+    "errors": []
+  },
+  "wordpress": {
+    "post_id": null,
+    "post_url": null,
+    "edit_url": null,
+    "status": "draft"
+  }
+}
